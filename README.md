@@ -90,7 +90,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Next steps 
 
-* Using VSCode, open hello-world.py and add your ownline of code, save and run.  Then, using the Source Control tool, Commit and add a Commit Comment.
+* Using VSCode, open say_something.py and add your ownline of code, save and run.  Then, using the Source Control tool, Commit and add a Commit Comment.
     To Commit and Sync, you may need to run the following commands in the Terminal below
     $ git config --global user.name "John Doe"
     $ git config --global user.email johndoe@example.com
